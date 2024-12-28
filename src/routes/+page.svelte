@@ -1,5 +1,5 @@
 <script>
-    const zero =[{"img":'../multimarket.svg'},{"img":'../multimarket.svg'},{"img":'../multimarket.svg'}]
+    const zero =[{"img":'/src/multimarket.svg'},{"img":'/src/multimarket.svg'},{"img":'/src/multimarket.svg'}]
 
 </script>
 {#each zero as item }
